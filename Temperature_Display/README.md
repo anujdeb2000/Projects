@@ -1,6 +1,8 @@
 # Overview
   This Project combines the SHTC3 sensor on the ESP32c3 and the DFRobot_RGBLCD display screen using the I2C interface. It displays the surrounding temperature in Celsius, aswell as the humidity percentage.
 
+<img width="414" height="242" alt="image" src="https://github.com/user-attachments/assets/2fa13733-b170-44c8-bcc1-3c992f567d78" />
+
 # Resources
   ### DFRobot 
   #### https://github.com/DFRobot/DFRobot_RGBLCD1602.
