@@ -1,5 +1,5 @@
 # Introduction
-Hello, my name is Anuj Deb. This repository contains the projects I've worked on over the years.
+Hello, my name is Anuj Deb. This repository contains projects I've worked on over my academic career.
 
 # Contacts
   ### anujdeb2000@gmail.com
